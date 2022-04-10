@@ -16,4 +16,3 @@ I am a Computer Science Graduate Student at New York University <img src="https:
 - 🌱 Exploring New Technological Domains.
 - ⚡ In my free time I explore new places.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Aditya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adityaaay)
-- 📲 My Portfolio Webpage: https://adityaaay.github.io/newCV
