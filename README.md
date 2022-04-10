@@ -1,7 +1,7 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/adityaaay"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a><br>
-<a href="https://adityaaay.github.io/newCV/"><img src="https://img.shields.io/badge/-Website-red" alt="Website Badge" width="100" height="25"></a>
+<a href="https://adityaaay.github.io/newCV/"><img src="https://img.shields.io/badge/-Website-red" alt="Website Badge" width="80" height="25"></a>
  
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=adityaaay&style=flat-square&color=blue" alt=""></p>
