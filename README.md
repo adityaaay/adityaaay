@@ -13,4 +13,4 @@ I am a Computer Science Graduate Student at New York University <img src="https:
 - 🔭 I'm a Full-Time Student at New York University and pursuing MS in Computer Science
 - 🌱 Exploring New Technological Domains.
 - ⚡ In my free time I explore new places.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adityaaay)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Aditya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adityaaay)
