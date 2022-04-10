@@ -10,7 +10,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Computer Science Graduate Student at New York University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Computer Science Graduate Student at New York University <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - 🔭 I'm a Full-Time Student at New York University and pursuing MS in Computer Science
 - 🌱 Exploring New Technological Domains.
